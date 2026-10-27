@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+The calculator computes simple interest using principal, rate, and time.
